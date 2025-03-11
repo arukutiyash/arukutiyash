@@ -11,5 +11,5 @@
 
 🔗 **Let's Connect!**  
 - [LinkedIn](https://www.linkedin.com/)  
-- [Portfolio](https://your-portfolio-link.com) *(if available)*  
-- 📧 Email: yourname@example.com  
+- [Portfolio](https://www.datascienceportfol.io/Arukutiyashwanthsai)  
+- 📧 Email: Arukutiyash@gmail.com
