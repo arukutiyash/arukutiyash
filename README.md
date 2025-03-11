@@ -1,5 +1,4 @@
 # Hi there, I'm Yashwanth Sai Arukuti 👋  
-![AI](https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif)
 
 🎓 I'm a Master's student in Artificial Intelligence at the University of North Texas.  
 💻 Currently working on AI & ML projects, including NLP with BERT, user churn prediction, and adaptive test selection for deep neural networks.  
